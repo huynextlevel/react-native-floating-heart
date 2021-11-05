@@ -1,0 +1,35 @@
+{
+  "name": "react-native-floating-heart",
+  "version": "1.0.0",
+  "description": "This is a floating heart with fully customize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynextlevel/react-native-floating-heart.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "floating",
+    "heart",
+    "ios",
+    "android",
+    "mobile",
+    "ui"
+  ],
+  "author": "Huy Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huynextlevel/react-native-floating-heart/issues"
+  },
+  "homepage": "https://github.com/huynextlevel/react-native-floating-heart#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.2"
+  }
+}
