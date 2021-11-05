@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { View, StyleSheet, Text, Alert, TouchableOpacity } from 'react-native';
+import { View, StyleSheet, Text, TouchableOpacity } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import FloatingHeart from 'react-native-floating-heart';
+import { FloatingHeart } from 'react-native-floating-heart';
 
 const App = () => {
   const [heartCount, setHeartCount] = useState(0);
