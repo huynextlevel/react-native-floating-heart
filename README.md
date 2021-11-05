@@ -1,4 +1,4 @@
-# react-native-metamask-phrase-backup
+# react-native-floating-heart
 
 A simple and fully customizable React Native component that implement a floating hearts.
 * Fully customizable heart icon.
